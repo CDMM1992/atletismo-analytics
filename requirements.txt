@@ -1,0 +1,10 @@
+# El .pkl se entrenó con scikit-learn 1.4.0: debe usarse la misma versión.
+# scikit-learn 1.4.0 requiere numpy < 2 y Python 3.9–3.12.
+streamlit==1.40.2
+streamlit-option-menu==0.4.0
+plotly==5.24.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.0
+joblib==1.4.2
+openpyxl==3.1.5
