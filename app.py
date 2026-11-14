@@ -95,7 +95,7 @@ with st.sidebar:
         styles={
             "container": {
                 "padding": "5!important",
-                "background-color": "#fafafa",
+                "background-color": "#696969",
             },
             "icon": {"color": "#ff4b4b", "font-size": "18px"},
             "nav-link": {
